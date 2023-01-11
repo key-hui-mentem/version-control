@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/key-hui-mentem/version-control/compare/v1.1.0...v1.1.1) (2023-01-11)
+
+
+### Bug Fixes
+
+* correct file path ([e3d19df](https://github.com/key-hui-mentem/version-control/commit/e3d19dfa05fca7eebb0b66d0ff54b97dd90ef80f))
+
 ## [1.1.0](https://github.com/key-hui-mentem/version-control/compare/v1.0.2...v1.1.0) (2023-01-11)
 
 
