@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/key-hui-mentem/version-control/compare/v1.1.1...v1.1.2) (2023-01-11)
+
+
+### Bug Fixes
+
+* change slack webhook ([d8c177b](https://github.com/key-hui-mentem/version-control/commit/d8c177bf04d2e3a5136e94ddb73369379d2949fc))
+
 ## [1.1.1](https://github.com/key-hui-mentem/version-control/compare/v1.1.0...v1.1.1) (2023-01-11)
 
 
