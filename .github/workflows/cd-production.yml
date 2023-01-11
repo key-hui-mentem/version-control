@@ -17,4 +17,3 @@ jobs:
           version_label: ${{ github.event.release.tag_name }}
           version_description: ${{ github.SHA }}
         run: echo $version_label
-        run: echo $version_description
