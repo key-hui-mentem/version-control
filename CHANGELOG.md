@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/key-hui-mentem/version-control/compare/v1.0.2...v1.1.0) (2023-01-11)
+
+
+### Features
+
+* add slack noti ([5532ce9](https://github.com/key-hui-mentem/version-control/commit/5532ce9003c0e970927050eeb0d4d8d9d0c0d517))
+
 ## [1.0.2](https://github.com/key-hui-mentem/version-control/compare/v1.0.1...v1.0.2) (2023-01-11)
 
 
