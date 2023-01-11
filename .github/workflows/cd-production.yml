@@ -16,6 +16,5 @@ jobs:
         env:
           version_label: ${{ github.event.release.tag_name }}
           version_description: ${{ github.SHA }}
-        run: ./.github/workflows/slack.sh
+        run: sh ./.github/workflows/slack.sh
         shell: bash
-        
