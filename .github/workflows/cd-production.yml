@@ -16,5 +16,6 @@ jobs:
         env:
           version_label: ${{ github.event.release.tag_name }}
           version_description: ${{ github.SHA }}
-        run: sh ./.github/workflows/slack.sh
+          slack_webhook: ${{ secrets.SLACK_WEBHOOK }}
+        run: sh ./.github/workflows/slack.sh version_control $version_label $slack_webhook
         shell: bash
