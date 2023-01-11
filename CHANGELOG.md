@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/key-hui-mentem/version-control/compare/v1.2.0...v1.2.1) (2023-01-11)
+
+
+### Bug Fixes
+
+* remove real slack url ([bc4661b](https://github.com/key-hui-mentem/version-control/commit/bc4661bf624a2da301d8a999d09434d42d33c3bb))
+
 ## [1.2.0](https://github.com/key-hui-mentem/version-control/compare/v1.1.3...v1.2.0) (2023-01-11)
 
 
