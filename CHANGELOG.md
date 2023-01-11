@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/key-hui-mentem/version-control/compare/v1.1.3...v1.2.0) (2023-01-11)
+
+
+### Features
+
+* add test scripts ([e22f74f](https://github.com/key-hui-mentem/version-control/commit/e22f74fd4cb885423c83d120665cce8c5ae63597))
+
 ## [1.1.3](https://github.com/key-hui-mentem/version-control/compare/v1.1.2...v1.1.3) (2023-01-11)
 
 
