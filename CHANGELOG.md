@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/key-hui-mentem/version-control/compare/v1.0.1...v1.0.2) (2023-01-11)
+
+
+### Bug Fixes
+
+* cd ([2e8d7ee](https://github.com/key-hui-mentem/version-control/commit/2e8d7ee2bcdafdc0e6a77537563416e75a038406))
+
 ## [1.0.1](https://github.com/key-hui-mentem/version-control/compare/v1.0.0...v1.0.1) (2023-01-11)
 
 
