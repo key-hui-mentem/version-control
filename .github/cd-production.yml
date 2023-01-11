@@ -1,0 +1,14 @@
+name: CD Pipeline - production
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  terraform:
+    name: 'Deploy to production'
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
